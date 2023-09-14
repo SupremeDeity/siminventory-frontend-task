@@ -5,9 +5,9 @@
 
 ### Introduction:
 
-This is a basic test that is meant to test your basic ability to work with **React** and with designing a basic UI.
+This is a basic test that is meant to analyze your fundamental **React** skills by designing a simple UI.
 
-The requirements, prototype link, instructions, docs links, fonts, and colors can all be found below in their own specific sections. Make sure to follow them well and hit
+The requirements, prototype link, instructions, docs links, fonts, and colors can all be found below in their own specific sections. Make sure to follow them well and ask if you have any queries.
 
 ### Requirements:
 
@@ -17,13 +17,13 @@ The requirements, prototype link, instructions, docs links, fonts, and colors ca
 4. **Zod**
 5. **Basic Git and Github skills and knowledge.**
 
-\* **Note**: Canary version is recommended due to a minor bug with NextJS's stable version 3.14.19. You can use the following command to bootstrap a project in canary:
+\* **Note**: Canary version is recommended due to a minor bug with NextJS's stable version `3.14.19`. You can use the following command to bootstrap a project in canary:
 
 ```sh
 npx create-next-app@latest
 ```
 
-\* **Note:** **NextJS** is the framework we will use with react in our main project, hence while we arent using any specific function of the framework in this demo, it would be best to familarize yourself with how NextJS works atleast to a basic level. Moreover, we will specifically be using the **App Router**.
+\* **Note:** **NextJS** is the framework we will use with react in our main project, hence while we are not using any specific function of the framework in this demo, it would be best to familarize yourself with how NextJS works, atleast to a basic level. Moreover, we will specifically be using the **App Router**.
 
 ### Instructions:
 
