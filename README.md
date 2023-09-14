@@ -1,5 +1,5 @@
-<p align="center" style="font-weight: bold; font-size:36px">SIMINVENTORY</p>
-<p align="center" style="font-weight: 600; font-size: 18px">- Frontend Demo Task -</p>
+<p align="center">SIMINVENTORY</p>
+<p align="center"> - Frontend Demo Task - </p>
 
 ##
 
@@ -34,7 +34,7 @@ In this demo, you basically have to replicate the provided prototype UI made in 
 
 You **MUST** use TailwindCSS for the styling and Zod for form validation. Extend Tailwind's theme and use the colors provided in the **Additionals** section below. "React Hook Forms" must be used to submit the details collected from the form.
 
-The developer must make it so that the submitted details from the form will generate a comment preview, replacing whatever was already there.
+The developer must make it so that the submitted details from the form will generate a comment preview, replacing whatever was already there. The heart icon in the preview must change to the opposite state (for example from liked to unliked) depending on whether the "Liked" option was true or not.
 
 > Developer must not use any kind of convertor and restrict the usage of AI Tools if any to a minimum.
 
@@ -54,6 +54,10 @@ The developer must make it so that the submitted details from the form will gene
 #### Fonts:
 
 You can use the `Poppins` font available [here](https://fonts.google.com/specimen/Poppins). The font variants being used are: **Regular** & **Semi-bold**.
+
+### Assets:
+
+The assets, namely the images and icons used in the prototype can be found in the repository under the `assets` folder. Icons not provided or found in the repository can be copied from the [FontAwesome's Icon website](https://fontawesome.com/icons).
 
 ### Resources:
 
