@@ -27,6 +27,8 @@ npx create-next-app@latest
 
 ### Instructions:
 
+> **NOTE: TEST NEEDS TO BE SUBMITTED THROUGH A NEW GITHUB REPO AND ITS LINK MUST BE SHARED. SUBMISSION OF TEST USING RAR/ZIP IS NOT ACCEPTABLE.** 
+
 In this demo, you basically have to replicate the provided prototype UI made in `Figma`, albeit with some imposed constraints/requirements so that it better fits what we are looking for. The requirements and constraints you **must** follow are listed above.
 
 1. Open up the prototype UI from the link provided in the **Resources** section below.
